@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3er073/jc/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷之九從集雜證謨目録佚
+  hash: sha256:3d99e01a151f58d88f68dfe943039207722011014bbc6e377e03d123dbe40458
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3er073_jc_009-d15.h1s1}
+metadata:
+  title: 景岳全書
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er073.xml
+hash: sha256:10954248a2a8a7385e5cde7928cd06540b3f8200440f1983dd4e13d648256600
