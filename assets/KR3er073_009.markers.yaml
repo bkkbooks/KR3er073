@@ -4,7 +4,8 @@ markers:
   front: []
   body:
   - {type: punctuation, offset: 5, content: ·, id: KR3er073_jc_009-bkkpn1}
+  - {type: substitution, offset: 9, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 10, content: （, id: KR3er073_jc_009-bkkpn2}
   - {type: punctuation, offset: 11, content: ）, id: KR3er073_jc_009-bkkpn3}
   back: []
-hash: sha256:349b4308be5fc138628e76703e7551587bdaf6ba87445de263e16fbb24591641
+hash: sha256:0f9a3548688bcc388291d84a356f085bf1b5a383de68dc1c1c1ba1b19941f953
